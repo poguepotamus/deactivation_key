@@ -32,4 +32,4 @@ Once you think you have an answer, you can go to your `answers` folder, ctrl+f, 
 
 ## Testing
 
-In the data directory, you'll find another folder `test`. This dataset has smaller input files and a file containing the final answer for your testing.
+In the data directory, you'll find another folder `test`. This dataset has smaller input files and a file containing the final answer for your testing. Instead of chunks of 8, you'll need to use chunks of 4.
